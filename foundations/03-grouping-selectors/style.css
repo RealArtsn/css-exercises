@@ -5,3 +5,13 @@
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
+.dark {
+    /* a black background and white text */
+    background-color:black;
+    color:white;
+}
+
+.yellow-back {
+    /* a yellow background */
+    background-color: yellow;
+}
