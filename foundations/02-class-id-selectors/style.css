@@ -1,0 +1,5 @@
+p {
+    /* a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+    background: #ff0a85;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
