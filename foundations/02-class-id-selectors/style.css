@@ -3,3 +3,8 @@ p {
     background: #ff0a85;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+#second {
+    /* blue text and a font size of 36px */
+    color:#220aff;
+    font-size: 36px;
+}
